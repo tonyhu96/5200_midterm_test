@@ -31,7 +31,7 @@ DATA_DIR = ROOT / "data"
 
 # TODO: set this to your paper's key (castle, card, lee, dw, hansen or abortion).
 # The notebooks read it, so you set it once.
-MY_PAPER = ""
+MY_PAPER = "lee"
 
 MIXTAPE = "https://raw.githubusercontent.com/scunning1975/mixtape/master"
 DEHEJIA = "https://users.nber.org/~rdehejia/data"
